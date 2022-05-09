@@ -11,3 +11,7 @@ Quick Test:
 ![image](https://user-images.githubusercontent.com/104415326/167488224-1884212c-93eb-4e8c-8a68-8f7c26da3f59.png)
 
 ![image](https://user-images.githubusercontent.com/104415326/167486332-a967a37c-b8bf-4170-8d7b-f3f987c414a3.png)
+
+Use Cases: 
+
+ - Expands my programming knowledge
